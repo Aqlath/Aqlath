@@ -34,11 +34,9 @@
 
 ### 📌 Core Projects
 - 🚚 **Supply Chain Late-Delivery Prediction:** End-to-end ML pipeline evaluating high-risk orders using feature engineering, threshold optimization, and metric evaluation (ROC-AUC, PR-AUC).
-- 👁️ **Real-Time Face Detection & Attendance:** Computer vision application leveraging OpenCV for automated tracking.
+- 💼 **SQL Job-Market Analysis(India):** Exploratory analysis and insights on employment trends and job market data using PostgreSQL queries, CTEs, and window functions.
 - 🔄 **Customer Churn & Price Prediction Models:** Predictive analytics models utilizing Scikit-Learn to estimate customer behavior and asset pricing.
 - 📊 **Sales & Data Analysis:** Exploratory data analysis, data cleaning, and insight generation using Python and visualization libraries.
-
----
 
 
 ### 📫 Connect with Me
