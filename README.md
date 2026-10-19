@@ -38,6 +38,13 @@
 - 🔄 **Customer Churn & Price Prediction Models:** Predictive analytics models utilizing Scikit-Learn to estimate customer behavior and asset pricing.
 - 📊 **Sales & Data Analysis:** Exploratory data analysis, data cleaning, and insight generation using Python and visualization libraries.
 
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aqlath&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqlath&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/mohammed-aqlath-a)
