@@ -6,6 +6,7 @@
 - 🛠️ **Practical Experience:** Data Science / Full Stack Intern at Strydo Technologies (July 2025).
 - 📚 **Currently Learning:** Advanced ML Pipelines, Cloud Data Workflows (AWS S3, AWS Glue), and Production-ready backend patterns.
 - 💬 **Ask me about:** Python, Machine Learning models (Scikit-Learn, TensorFlow/Keras), Computer Vision (OpenCV), and SQL.
+- 💼 **Portfolio:** ['https://mohammed-aqlath-a-portfolio.ai.studio'](https://mohammed-aqlath-a-portfolio.ai.studio)
 
 ---
 
